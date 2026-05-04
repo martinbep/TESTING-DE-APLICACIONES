@@ -18,7 +18,7 @@ from reportlab.platypus import (
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUTPUT = os.path.join(HERE, "BenitezPotochek_1195640_03052026_TPO2.pdf")
 RESOURCES = os.path.join(HERE, "resources")
-REPO_URL = "https://github.com/martinbep/tpo2-testing-aplicaciones"
+REPO_URL = "https://github.com/martinbep/TESTING-DE-APLICACIONES"
 
 
 ss = getSampleStyleSheet()

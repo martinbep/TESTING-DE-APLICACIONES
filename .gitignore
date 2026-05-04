@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+report.html
+.coverage
+
+# Notas personales (no se suben al repo)
+GUIA_TPO2.md
+informe/COMO_GENERAR_PDF.md
